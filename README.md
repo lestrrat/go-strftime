@@ -6,6 +6,10 @@ strftime for Go
 
 [![GoDoc](https://godoc.org/github.com/lestrrat/go-strftime?status.svg)](https://godoc.org/github.com/lestrrat/go-strftime)
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/strftime](https://github.com/lestrrat-go/strftime). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 # SYNOPSIS
 
 ```go
